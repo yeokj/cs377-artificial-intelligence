@@ -1,1 +1,1 @@
-# cs377-project
+# Welcome to my college repo for CS 377 (Artificial Intelligence)
